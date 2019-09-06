@@ -1,0 +1,129 @@
+[welcome banner]
+
+**Welcome to Code Bullet and Co!!**
+This server belongs to @Code Bullet#6516 and his **Youtube channel** (link below).
+Its main purpose is to talk about programming and AI related topics, but it is also used for general conversation.
+Before you ask any questions please first check out #faq.
+As a member of this server, you are **obligated to follow the rules**.
+
+[rules banner]
+
+**1. Don't be toxic/a d*ck**:
+    *- Example:* calling people names and suggesting them to do things to themselves that may cause harm to themselves (even in jest)
+    *- Example:* calling out peoples work as stupid and such. There are less offensive ways to tell somebody you disagree with their suggestion or comment
+**2. Don't talk off topic in a chat**:
+    *- Example:* talking about coding in #discord-suggestions or pokemon in #neural-networks chat
+**3. Don't spam**:
+    *- Example:* using excessively foul language
+    *- Example:* posting of images/gifs excessively in chats not meant for primarily images/gifs
+    *- Example:* line spamming (typing using excessive lines/messages)
+**4. Respect moderators**:
+    *- Example:* If a moderator asks you to take an argument/discussion elsewhere, take it elsewhere
+**5. Don't @ people/roles for no reason or a reason too minor** (including mods)
+**6. Only self-promote in #self-promotion** (also don't self-promote your self-promotion, that's just dumb)
+**7. Only speak English**
+**8. No NSFW content**
+**9. Comply with Discords ToS** (found at <https://discordapp.com/terms>)
+**10. No trading or advertising a trade that involves money transactions on this server**
+**11. No blank names**
+**12. No files that can directly be executed and which can affect a PC** (If the file first needs to be modified to be executable, for example changing the ending of a EXE file, it is allowed)
+**13. No impersonation using the same/similar name/nickname** except with permission
+*Note:* 
+	- what you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
+	- moderators can use their own discretion
+	- super admins are considered admins
+
+[channel banner]
+
+**GENERAL:**
+	**#general + #general2:** Just conversations
+	**#18-plus-talk:** for adult topics (only conv) (need to do `?rank 18-plus` in #bot-commands to access it)
+	**#debate:** Channel for arguments that got out of hand
+	**#games:** Gaming discussions
+	**#memes:** Only for non-EU users
+	**#self-promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
+	**#art:** Channel for general art and fanart
+	**#pictures:** Channel for real life pictures
+	**#career-talk:** Channel about career
+	**#movies-and-shows:** Movie and Show dicussions (anime goes into #anime)
+	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
+**SERVER STUFF:**
+	**#discord-suggestions:** Suggestions on improving the discord server
+	**#event-suggestions:** Suggestion for server events, that we could do
+	**#video-ideas:** Ideas for future videos
+	**#ask-mods:** Ask questions to mods
+	**#bot-commands:** Command spam-chat
+**PROGRAMMING STUFF:**
+	**#general-programming:** Self-explanatory
+	**#resources:** Resources for programming related topics (can also ask for resources)
+	**#neural-networks:** Discussion of neural network
+	**#projects:** General stuff that you created/are working on
+	**#normal-ai:** Discussion of non-neural-network AI
+	**#hardware:** Discussion of own setup and general hardware
+	**#operating-systems:** Discussion about operating systems
+**PROGRAMMING HELP:**
+	**#programming-help-0/1:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
+	**#python-help:** Help channel specifically for python
+	**#java-help:** Help channel specifically for java
+	**#cpp-help:** Help channel specifically for C++ and C
+	**#javascript-help:** Help channel specifically for javascript
+	**#c-sharp-help:** Help channel specifically for C#
+**MISC HELP:**
+	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
+	**#stem:** Channel for general STEM topics
+	**#game-dev:** Game development and Unity/Unreal help
+	**#databases:** Help channel about databases
+	**#webdesign:** Channel for webdesign discussion and help
+**VOICE CHANNELS:**
+	**#no-mic:** For people in voice with no mic
+	**#music:**  Talking about music (links allowed) + music bot commands
+
+[how to level up banner]
+
+- Each time you send a message, you'll get a random amount of EXP between 15-25.
+- To avoid spamming and flooding the chat, you can only gain EXP once a minute.
+- To **check your level** type in #bot-commands:
+    - `!rank`: shows your current level
+    - `!levels`: shows the leaderboard
+
+[self assign banner]
+
+We have different self-assigning roles:
+- **Language Roles:**
+	:python: : 	Python
+	:java: : 	Java
+	:cplus: : 	C++
+	:js: : 	JavaScript
+	:csharp: : 	C#
+	:c_: : 	C
+	:lua: : 	Lua
+	:rust: : 	Rust
+	:php: : 	PHP
+	:golang: : 	Golang
+- **Helper Roles:** for Language Roles users that are willing to help others
+- **OS Roles:** Your main OS
+- **Notif Roles:** Notification Roles for following things:
+	:YouTube: : 	when CodeBullet uploads a new video on YT
+	:regional_indicator_g: : 	when there's a new announcement
+- **Speciality Roles:** helper roles for specific Lib/Package/API.
+	:tensorflow: :	Tensorflow/Keras
+	:pytorch: :	PyTorch
+	:unity: :	Unity
+	:unreal: :	Unreal Engine
+	:SQL: :	SQL
+	:NoSQL: :	NoSQL
+	:webdesign: :	Web Design (HTML, CSS, etc.)
+**To get them** go to #role-assignment and react to the roles of your choice.
+
+[links banner]
+
+- Youtube: <https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q>
+- Twitter: <https://twitter.com/code_bullet>
+- Patreon: <https://www.patreon.com/CodeBullet>
+- Github: <https://github.com/Code-Bullet>
+- Website: <http://www.thebigcb.com/>
+
+- invite to this server: https://discord.gg/UZDMYx5
+
+***SPECIAL THANKS***
+Special thanks to @Chan#1308 for designing, drawing and optimizing the title background

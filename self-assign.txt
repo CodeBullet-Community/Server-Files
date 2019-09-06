@@ -1,0 +1,64 @@
+[Languages Roles]
+
+React with following emojis to get a certain role. (also look below)
+**Only** have Programmer and one or more Language roles.
+**Programmer alone** is also forbidden.
+If we find someone that doesn't have both will be warned.
+
+:CB: :	Programmer
+
+:python: : 	Python
+:java: : 	Java
+:cplus: : 	C++
+:js: : 	JavaScript
+:csharp: : 	C#
+:c_: : 	C
+:lua: : 	Lua
+:rust: : 	Rust
+:php: : 	PHP
+:golang: :	Golang
+
+[Helper Roles]
+
+In addition to the roles above, you can have these.
+People will be able to @ them if they need help.
+
+:python: : 	Python Helper
+:java: : 	Java Helper
+:cplus: : 	C++ Helper
+:js: : 	JavaScript Helper
+:csharp: : 	C# Helper
+:c_: : 	C Helper
+:lua: : 	Lua Helper
+:rust: : 	Rust Helper
+:php: : 	PHP Helper
+:golang: :	Golang Helper
+
+[OS Roles]
+
+React your main OS to get a role.
+
+:linux: : 	Linux
+:windows: : 	Windows
+:osx: : 	MacOS
+:chromeos: :	Chrome OS
+
+[Notif Roles]
+
+React to roles to get notified for following things:
+
+:YouTube: : 	when CodeBullet uploads a new video on YT
+:regional_indicator_g: : 	when there's a new announcement
+
+[Speciality Roles]
+
+Those are Lib/Package/API specific roles.
+People will be able to @ them if they need help.
+
+:tensorflow: :	Tensorflow/Keras
+:pytorch: :	PyTorch
+:unity: :	Unity
+:unreal: :	Unreal Engine
+:SQL: :	SQL
+:NoSQL: :	NoSQL
+:webdesign: :	Web Design (HTML, CSS, etc.)

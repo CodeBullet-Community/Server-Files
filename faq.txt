@@ -1,0 +1,35 @@
+[faq banner]
+
+**1. What programming language does CB use?**
+    An engine of Java called 'processing', JavaScript and python 3.
+
+**2. What IDE does Code Bullet use?**
+    Processing IDE,  <https://processing.org/>
+    Atom editor, <https://atom.io/>
+
+**3. How old is CB and how long has he been programming for?**
+    He is 21 (or was on the 28th of January 2019) and has been programming for 4 years.
+
+**4. Where can I find the code for his projects?**
+    GitHub! <https://github.com/Code-Bullet?tab=repositories>
+
+**5. Where is CB from?**
+    Australia.
+
+**6. Where can I support Code Bullet?**
+    <https://www.patreon.com/CodeBullet>
+
+**7. Where does CB go for art?**
+    #art.
+
+**8. Will you do a face reveal?**
+    "I might do a face reveal at some point."
+
+**9. With that programming language did you start?**
+    "Java was the first language I learned in high school."
+
+**10. Where are you in your education?**
+    Just finished university studying computer science.
+
+**11. Where can I learn programming neural networks?**
+    Check #resources.

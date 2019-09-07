@@ -13,4 +13,4 @@ Contains all emojis added by Codec.
 
 ## Banners
 
-Contains the banners used in #read-me-first and #self-assign. The christmas banners aren't complete, because when we used them we didn't have the missing banners yet.
+Contains the banners used in #read-me-first and #self-assign. You'll have to to install the Norwester font if you want to edit or view the `banner.xcf` file. The christmas banners aren't complete, because when we used them we didn't have the missing banners yet.

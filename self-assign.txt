@@ -7,32 +7,36 @@ If we find someone that doesn't have both will be warned.
 
 :CB: :	Programmer
 
-:python: : 	Python
-:java: : 	Java
-:cplus: : 	C++
-:js: : 	JavaScript
-:csharp: : 	C#
-:c_: : 	C
-:lua: : 	Lua
-:rust: : 	Rust
-:php: : 	PHP
+:python: :	Python
+:java: :	Java
+:cplus: :	C++
+:js: :	JavaScript
+:csharp: :	C#
+:c_: :	C
+:lua: :	Lua
+:rust: :	Rust
+:php: :	PHP
 :golang: :	Golang
+:shell~1: :	Shell Script (or any other implementation of it eg. Bash)
+:powershell: :	Batch Script
 
 [Helper Roles]
 
 In addition to the roles above, you can have these.
 People will be able to @ them if they need help.
 
-:python: : 	Python Helper
-:java: : 	Java Helper
-:cplus: : 	C++ Helper
-:js: : 	JavaScript Helper
-:csharp: : 	C# Helper
-:c_: : 	C Helper
-:lua: : 	Lua Helper
-:rust: : 	Rust Helper
-:php: : 	PHP Helper
+:python: :	Python Helper
+:java: :	Java Helper
+:cplus: :	C++ Helper
+:js: :	JavaScript Helper
+:csharp: :	C# Helper
+:c_: :	C Helper
+:lua: :	Lua Helper
+:rust: :	Rust Helper
+:php: :	PHP Helper
 :golang: :	Golang Helper
+:shell~1: :	Shell Script Helper (or any other implementation of it eg. Bash)
+:powershell: :	Batch Script Helper
 
 [OS Roles]
 

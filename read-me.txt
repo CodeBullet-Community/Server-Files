@@ -61,6 +61,10 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#normal-ai:** Discussion of non-neural-network AI
 	**#hardware:** Discussion of own setup and general hardware
 	**#operating-systems:** Discussion about operating systems
+**CODE GOLF:**
+	**#cg-announcements:** Channel for announcements concerning Code Golfing
+	**#cg-winners:** List of winners of past competitions
+	**#cg-general:** Discussion channel for Code Golfing
 **PROGRAMMING HELP:**
 	**#programming-help-0/1:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
 	**#python-help:** Help channel specifically for python
@@ -73,7 +77,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#stem:** Channel for general STEM topics
 	**#game-dev:** Game development and Unity/Unreal help
 	**#databases:** Help channel about databases
-	**#webdesign:** Channel for webdesign discussion and help
+	**#web-design:** Channel for web design discussion and help
 **VOICE CHANNELS:**
 	**#no-mic:** For people in voice with no mic
 	**#music:**  Talking about music (links allowed) + music bot commands

@@ -3,7 +3,7 @@
 **1. A new problem will be posted every two weeks**
 **2. When a new problem is posted, you will have 10 days to submit a solution**
 **3. Solutions should not be more than one file**
-**4. Submit your code using !submit with an attached file**
+**4. Submit your code using `?!submit` with an attached file**
 **5. Each challenge will fall into one of these 4 categories: Python, Java, C++, and Any Language**
 **6. You will be judged based on file size**
 **7. The names of the winners will be posted on #cg-winners**

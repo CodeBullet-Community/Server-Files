@@ -57,13 +57,13 @@ React to roles to get notified for following things:
 
 [Speciality Roles]
 
-Those are Lib/Package/API specific roles.
+Those are Lib/Package/API specific HELPER roles.
 People will be able to @ them if they need help.
 
-:tensorflow: :	Tensorflow/Keras
-:pytorch: :	PyTorch
-:unity: :	Unity
-:unreal: :	Unreal Engine
-:SQL: :	SQL
-:NoSQL: :	NoSQL
-:webdesign: :	Web Design (HTML, CSS, etc.)
+:tensorflow: :	Tensorflow/Keras Helper
+:pytorch: :	PyTorch Helper
+:unity: :	Unity Helper
+:unreal: :	Unreal Engine Helper
+:SQL: :	SQL Helper
+:NoSQL: :	NoSQL Helper
+:webdesign: :	Web Design Helper (HTML, CSS, etc.)

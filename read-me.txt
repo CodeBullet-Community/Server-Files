@@ -46,7 +46,6 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
 	**#career-talk:** Channel about career
-	**#movies-and-shows:** Movie and Show dicussions (anime goes into #anime)
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
 **SERVER STUFF:**
 	**#discord-suggestions:** Suggestions on improving the discord server

@@ -5,22 +5,22 @@
 **3. Solutions should not be more than one file**
 **4. Submit your code using `?!submit` with an attached file**
 **5. Each challenge will be divided into these 4 categories:** 
-    - Python
-    - JavaScript
-    - C/C++
-    - Any Language
+    **-** Python
+    **-** JavaScript
+    **-** C/C++
+    **-** Any Language
 **6. You will be judged based on file size**
-**7. The names of the winners will be posted on #cg-winners**
-**8. Funny sulutions are encouraged, if a particularlly interesting submission is sent to a moderator it may be featured alongside the winners. **
-**9. By default only standard libraries are allowed. Exceptions may be created for certain challenges. **
+**7. The names of the winners will be posted on #cg**-**winners**
+**8. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **
+**9. By default, only standard libraries are allowed. Exceptions may be created for certain challenges. **
 **10. For a submission to classify for the Python category it must: **
-**  a. Run in Python 3.8 **
-**  b. Not use ';' to concatenate lines unless nescessary **
-**  c. Not use exec() unless nescessary **
-**  d. Not mix tabs and spaces for tabulation **
+    **a.** Run in Python 3.8
+    **b.** Not use ';' to concatenate lines unless necessary
+    **c.** Not use exec() unless necessary
+    **d.** Not mix tabs and spaces for tabulation
 **11. For a submission to classify for the JavaScript category it must: **
-**  a. Run in JavaScript ES10 **
+    **a.** Run in JavaScript ES10
 **12. For a submission to classify for the C++/C category it must: **
-**  a. Compile with the latest version of gcc or gxx **
+    **a.** Compile with the latest version of gcc or gxx
 **13. For a submission to classify for the Any Language category it must: **
-**  a. Run/Compile in the latest version of any language EXCEPT for "golfing" laguages **
+    **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages

@@ -20,6 +20,7 @@ As a member of this server, you are **obligated to follow the rules**.
 **4. Respect moderators**:
     *- Example:* If a moderator asks you to take an argument/discussion elsewhere, take it elsewhere
 **5. Don't @ people/roles for no reason or a reason too minor** (including mods)
+	*- Note:* After posting your question in a help channel wait 15 minutes before pinging a helper role
 **6. Only self-promote in #self-promotion** (also don't self-promote your self-promotion, that's just dumb)
 **7. Only speak English**
 **8. No NSFW content**
@@ -45,7 +46,6 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
 	**#career-talk:** Channel about career
-	**#movies-and-shows:** Movie and Show dicussions (anime goes into #anime)
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
 **SERVER STUFF:**
 	**#discord-suggestions:** Suggestions on improving the discord server
@@ -62,6 +62,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#hardware:** Discussion of own setup and general hardware
 	**#operating-systems:** Discussion about operating systems
 **CODE GOLF:**
+	**#cg-rules:** Code Golf rules
 	**#cg-announcements:** Channel for announcements concerning Code Golfing
 	**#cg-winners:** List of winners of past competitions
 	**#cg-general:** Discussion channel for Code Golfing
@@ -109,14 +110,15 @@ We have different self-assigning roles:
 - **Notif Roles:** Notification Roles for following things:
 	:YouTube: : 	when CodeBullet uploads a new video on YT
 	:regional_indicator_g: : 	when there's a new announcement
+	:codegolf: :    when something about the Code Golf competition is announced
 - **Speciality Roles:** helper roles for specific Lib/Package/API.
-	:tensorflow: :	Tensorflow/Keras
-	:pytorch: :	PyTorch
-	:unity: :	Unity
-	:unreal: :	Unreal Engine
-	:SQL: :	SQL
-	:NoSQL: :	NoSQL
-	:webdesign: :	Web Design (HTML, CSS, etc.)
+	:tensorflow: :	Tensorflow/Keras Helper
+	:pytorch: :	PyTorch Helper
+	:unity: :	Unity Helper
+	:unreal: :	Unreal Engine Helper
+	:SQL: :	SQL Helper
+	:NoSQL: :	NoSQL Helper
+	:webdesign: :	Web Design Helper (HTML, CSS, etc.)
 **To get them** go to #role-assignment and react to the roles of your choice.
 
 [links banner]

@@ -62,6 +62,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#hardware:** Discussion of own setup and general hardware
 	**#operating-systems:** Discussion about operating systems
 **CODE GOLF:**
+	**#cg-rules:** Code Golf rules
 	**#cg-announcements:** Channel for announcements concerning Code Golfing
 	**#cg-winners:** List of winners of past competitions
 	**#cg-general:** Discussion channel for Code Golfing

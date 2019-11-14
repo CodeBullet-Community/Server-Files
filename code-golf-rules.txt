@@ -21,3 +21,7 @@
     **a.** Compile with the latest version of gcc or g++
 **13. For a submission to classify for the Any Language category it must: **
     **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages
+*Note:* 
+	- You are not required to use a specifc version of a language, however your code must be compatible with the listed version
+   - Any rules listed for a language specific category do not automatically apply to the Any Language category
+   - While the !?submit command delets you the annexed file giving you the option to keep your solution private, you are encouraged to share and discuss it

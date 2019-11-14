@@ -21,6 +21,10 @@
 **11. For a submission to classify for the JavaScript category it must: **
     **a.** Run in JavaScript ES10
 **12. For a submission to classify for the C++/C category it must: **
-    **a.** Compile with the latest version of gcc or gxx
+    **a.** Compile with the latest version of gcc or g++
 **13. For a submission to classify for the Any Language category it must: **
     **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages
+*Note:* 
+	- You are not required to use a specifc version of a language, however your code must be compatible with the listed version
+   - Any rules listed for a language specific category does not apply to the any language category unless otherwise stated
+   - while the !?submit command deletes your message and attached file in order to keep your solution private, you are encouraged to share and discuss it

@@ -27,4 +27,4 @@
 *Note:* 
 	- You are not required to use a specifc version of a language, however your code must be compatible with the listed version
    - Any rules listed for a language specific category does not apply to the any language category unless otherwise stated
-   - while the !?submit command deletes your message and attached file in order to keep your solution private, you are encouraged to share and discuss it
+   - while the ?!submit command deletes your message and attached file in order to keep your solution private, you are encouraged to share and discuss it

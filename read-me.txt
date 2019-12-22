@@ -33,6 +33,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	- what you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
 	- moderators can use their own discretion
 	- super admins are considered admins
+	- rule violations are on a person not user basis. So an alt won't erase past violations
 
 [channel banner]
 

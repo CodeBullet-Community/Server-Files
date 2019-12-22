@@ -14,7 +14,6 @@ As a member of this server, you are **obligated to follow the rules**.
 **2. Don't talk off topic in a chat**:
     *- Example:* talking about coding in #discord-suggestions or pokemon in #neural-networks chat
 **3. Don't spam**:
-    *- Example:* using excessively foul language
     *- Example:* posting of images/gifs excessively in chats not meant for primarily images/gifs
     *- Example:* line spamming (typing using excessive lines/messages)
 **4. Respect moderators**:
@@ -32,7 +31,7 @@ As a member of this server, you are **obligated to follow the rules**.
 *Note:* 
 	- what you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
 	- moderators can use their own discretion
-	- super admins are considered admins
+	- super admins have the same authority as admins
 	- rule violations are on a person not user basis. So an alt won't erase past violations
 
 [channel banner]

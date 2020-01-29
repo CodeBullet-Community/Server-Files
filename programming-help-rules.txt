@@ -6,8 +6,8 @@ Rules for programming help channels:
 1. Google your question before asking. Most answers can be found on Google.**
   - *You can ask for help understanding code you find via Google.*
 **2. Do not post large blocks of code. Instead you can either:**
-  - Post a link to a pastebin (or similar) of the code
-  - Upload the code to Discord
+  - *Post a link to a pastebin (or similar) of the code.*
+  - *Upload the code to Discord.*
 **3. You may only ping helpers if nobody has responded to your question for 15 minutes.
 4. Do not ask for other people to write code for you.**
   - *Do not ask others to do homework for you.*

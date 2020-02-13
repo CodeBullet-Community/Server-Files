@@ -57,7 +57,7 @@ React to roles to get notified for following things:
 
 [Speciality Roles]
 
-Those are Lib/Package/API specific HELPER roles.
+Those are misc HELPER roles.
 People will be able to @ them if they need help.
 
 :tensorflow: :	Tensorflow/Keras Helper
@@ -67,3 +67,4 @@ People will be able to @ them if they need help.
 :SQL: :	SQL Helper
 :NoSQL: :	NoSQL Helper
 :webdesign: :	Web Design Helper (HTML, CSS, etc.)
+:hardware: :	Hardware Helper

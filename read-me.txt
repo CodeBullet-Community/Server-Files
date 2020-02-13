@@ -111,7 +111,7 @@ We have different self-assigning roles:
 	:YouTube: : 	when CodeBullet uploads a new video on YT
 	:regional_indicator_g: : 	when there's a new announcement
 	:codegolf: :    when something about the Code Golf competition is announced
-- **Speciality Roles:** helper roles for specific Lib/Package/API.
+- **Speciality Roles:** misc helper roles
 	:tensorflow: :	Tensorflow/Keras Helper
 	:pytorch: :	PyTorch Helper
 	:unity: :	Unity Helper
@@ -119,6 +119,7 @@ We have different self-assigning roles:
 	:SQL: :	SQL Helper
 	:NoSQL: :	NoSQL Helper
 	:webdesign: :	Web Design Helper (HTML, CSS, etc.)
+	:hardware: :	Hardware Helper
 **To get them** go to #role-assignment and react to the roles of your choice.
 
 [links banner]

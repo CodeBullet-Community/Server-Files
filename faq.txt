@@ -8,7 +8,7 @@
     Atom editor, <https://atom.io/>
 
 **3. How old is CB and how long has he been programming for?**
-    He is 21 (or was on the 28th of January 2019) and has been programming for 4 years.
+    He is 22 (or was on the 28th of January 2020) and has been programming for 4 years.
 
 **4. Where can I find the code for his projects?**
     GitHub! <https://github.com/Code-Bullet?tab=repositories>

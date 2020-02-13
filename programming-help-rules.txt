@@ -1,0 +1,21 @@
+[Programming Rules Banner]
+
+Rules for programming help channels:
+
+**0. All rules of the server apply. Read them in #read-me-first right now.
+1. Google your question before asking. Most answers can be found on Google.**
+  - *You can ask for help understanding code you find via Google.*
+**2. Do not post large blocks of code. Instead you can either:**
+  - *Post a link to a pastebin (or similar) of the code.*
+  - *Upload the code to Discord.*
+**3. You may only ping helpers if nobody has responded to your question for 15 minutes.
+4. Do not ask for other people to write code for you.**
+  - *Do not ask others to do homework for you.*
+  - *(Asking for ideas or troubleshooting is fine.)*
+**5. Clearly indicate when you're working with code you didn't write.**
+  - *Do not pretend code someone else wrote is yours. We will know.*
+
+Helpful commands:
+  *- ?h2a tells you what you need to post when asking for help
+  - ?format gives the syntax for Discord's syntax highlighting
+  - ?google and ?google2 give you the solutions to most of your questions*

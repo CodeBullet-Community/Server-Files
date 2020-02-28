@@ -122,6 +122,16 @@ We have different self-assigning roles:
 	:hardware: :	Hardware Helper
 **To get them** go to #role-assignment and react to the roles of your choice.
 
+[join staff banner]
+
+If you are active in this community and want to contribute to it more then just talking and speaking you can try to join the staff.
+To make the process of finding staff easier for us we created a google form where you can provide us with some information.
+<https://docs.google.com/forms/d/e/1FAIpQLSeKK6d5Nch1pBMrCxvsgGbfG0S3GM6BUk-DhLNkunKCOPBm8Q/viewform>
+
+Whenever we start looking for new staff members our choice will be primarily based on your behavior in the community and 
+the provided information in the form will be used if we can't decide or if we want to cover certain times.
+There is also the possibility that we will ask if you want to join the staff without you having filled out the application.
+
 [links banner]
 
 - Youtube: <https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q>
@@ -133,4 +143,4 @@ We have different self-assigning roles:
 - invite to this server: https://discord.gg/UZDMYx5
 
 ***SPECIAL THANKS***
-Special thanks to @Chan#1308 for designing, drawing and optimizing the title background
+Special thanks to @Chan#1308 for designing and drawing the title background

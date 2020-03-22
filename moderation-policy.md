@@ -1,6 +1,6 @@
 # Moderation Policy
 
-## Violation Consequences
+## Rule Violation Consequences
 
 ### **C**onsequence **E**scalation **L**evels (CEL)
 

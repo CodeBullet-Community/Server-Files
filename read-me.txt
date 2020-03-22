@@ -130,22 +130,22 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 We have different self-assigning roles:
 - **Language Roles:**
-	:python: : 	Python
-	:java: : 	Java
-	:cplus: : 	C++
-	:js: : 	JavaScript
-	:csharp: : 	C#
-	:c_: : 	C
-	:lua: : 	Lua
-	:rust: : 	Rust
-	:php: : 	PHP
-	:golang: : 	Golang
+	:python: :	Python
+	:java: :	Java
+	:cplus: :	C++
+	:js: :	JavaScript
+	:csharp: :	C#
+	:c_: :	C
+	:lua: :	Lua
+	:rust: :	Rust
+	:php: :	PHP
+	:golang: :	Golang
 - **Helper Roles:** for Language Roles users that are willing to help others
 - **OS Roles:** Your main OS
 - **Notif Roles:** Notification Roles for following things:
-	:YouTube: : 	when CodeBullet uploads a new video on YT
-	:regional_indicator_g: : 	when there's a new announcement
-	:codegolf: :    when something about the Code Golf competition is announced
+	:YouTube: :	when CodeBullet uploads a new video on YT
+	:regional_indicator_g: :	when there's a new announcement
+	:codegolf: :	when something about the Code Golf competition is announced
 - **Speciality Roles:** misc helper roles
 	:tensorflow: :	Tensorflow/Keras Helper
 	:pytorch: :	PyTorch Helper

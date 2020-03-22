@@ -8,31 +8,69 @@ As a member of this server, you are **obligated to follow the rules**.
 
 [rules banner]
 
-**1. Don't be toxic/a d*ck**:
-    *- Example:* calling people names and suggesting them to do things to themselves that may cause harm to themselves (even in jest)
-    *- Example:* calling out peoples work as stupid and such. There are less offensive ways to tell somebody you disagree with their suggestion or comment
-**2. Don't talk off topic in a chat**:
-    *- Example:* talking about coding in #discord-suggestions or pokemon in #neural-networks chat
-**3. Don't spam**:
-    *- Example:* posting of images/gifs excessively in chats not meant for primarily images/gifs
-    *- Example:* line spamming (typing using excessive lines/messages)
-**4. Respect moderators**:
-    *- Example:* If a moderator asks you to take an argument/discussion elsewhere, take it elsewhere
-**5. Don't @ people/roles for no reason or a reason too minor** (including mods)
-	*- Note:* After posting your question in a help channel wait 15 minutes before pinging a helper role
-**6. Only self-promote in #self-promotion** (also don't self-promote your self-promotion, that's just dumb)
-**7. Only speak English**
-**8. No NSFW content**
-**9. Comply with Discords ToS** (found at <https://discordapp.com/terms>)
-**10. No trading or advertising a trade that involves money transactions on this server**
-**11. No blank names**
-**12. No files that can directly be executed and which can affect a PC** (If the file first needs to be modified to be executable, for example changing the ending of a EXE file, it is allowed)
-**13. No impersonation using the same/similar name/nickname** except with permission
+**1. Prohibited Behavior**
+	**a.** Insulting (Outside of obvious sarcasm, joking, playing around)
+	**b.** Defamatory - Spreading fake information to damage one’s reputation
+	**c.** Sexism, Racism, Homophobia
+	**d.** Doxxing - Releasing someone’s private information to other members without consent
+	**e.** Unauthorized impersonation
+	**f.** Talking off-topic in the channels
+**2. Prohibited Content**
+	**a.** NSFW Content
+	**b.** Directly Executable Files
+	**c.** Non-English Conversations
+	**d.** Advertisement outside of #self-promotion
+		**-** *No monetary advertisements*
+**3. No Spamming**
+	**a.** Sending messages with arbitrary characters in a fast sequence
+	**b.** Sending the same message again and again in a fast sequence
+	**c.** Repeatedly mentioning roles or members
+	**d.** A sequence of one-word or very short messages
+**4. Prohibited Naming**
+	**a.** Blank Names
+	**b.** Names prohibited by rules in sections 1 and 2
+**5. Follow the Discord ToS**
+	**a.** <https://discordapp.com/terms>
+	**b.** Age restriction of 13 years will be enforced
+
 *Note:* 
-	- what you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
-	- moderators can use their own discretion
-	- super admins have the same authority as admins
-	- rule violations are on a person not user basis. So an alt won't erase past violations
+	- What you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
+	- Moderators can use their own discretion
+	- Super admins have the same authority as admins
+	- Rule violations are on a person not user basis. So an alt won't erase past violations
+
+[help rules banner]
+
+**1. Google your question before asking.** Most answers can be found on Google
+	**-** You can ask for help understanding code you find via Google
+**2. Do not post large blocks of code.** Instead, you can either:
+	**-** Post a link to a Pastebin (or similar) of the code
+	**-** Upload the code to Discord in a file
+	**-** Only include the code required to solve the problem
+**3. You may only ping helpers if nobody has responded to your question for 15 minutes**
+**4. Do not ask for other people to write code for you** (aka don't be a help vampire)
+	**-** Do not ask others to do homework for you
+	**-** (Asking for ideas or troubleshooting is fine.)
+**5. Clearly indicate when you're working with code you didn't write**
+	**-** Do not pretend code someone else wrote is yours. We will know
+
+*Helpful commands:*
+	- `?h2a` tells you what you need to post when asking for help
+	- `?a2a` for telling people that they should ask not ask to ask
+	- `?format` gives the syntax for Discord's syntax highlighting
+	- `?google` and `?google2` give you the solutions to most of your questions
+
+[Consequences banner]
+
+**Consequence Escalation Levels** (CEL)
+	**1.** Warning
+	**2.** Temporary mute
+	**3.** Temporary Ban
+	**4.** Permanent  Ban
+When enforcing the rules Moderators will follow the CEL, however, depending on the situation they may start at any level. 
+Members should only get warned if the Moderators aren’t sure if that member is aware of the rule 
+or once (but only once) with the bot if the incident isn’t very significant. 
+Users who join our Discord server only to violate the rules will be immediately permabanned.
 
 [channel banner]
 
@@ -43,21 +81,18 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#games:** Gaming discussions
 	**#memes:** Only for non-EU users
 	**#self-promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
+	**#career-talk:** Channel about career
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
-	**#career-talk:** Channel about career
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
 **SERVER STUFF:**
 	**#discord-suggestions:** Suggestions on improving the discord server
-	**#event-suggestions:** Suggestion for server events, that we could do
-	**#video-ideas:** Ideas for future videos
 	**#ask-mods:** Ask questions to mods
 	**#bot-commands:** Command spam-chat
 **PROGRAMMING STUFF:**
 	**#general-programming:** Self-explanatory
 	**#resources:** Resources for programming related topics (can also ask for resources)
 	**#neural-networks:** Discussion of neural network
-	**#projects:** General stuff that you created/are working on
 	**#normal-ai:** Discussion of non-neural-network AI
 	**#hardware:** Discussion of own setup and general hardware
 	**#operating-systems:** Discussion about operating systems
@@ -70,13 +105,13 @@ As a member of this server, you are **obligated to follow the rules**.
 	**#programming-help-0/1:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
 	**#python-help:** Help channel specifically for python
 	**#java-help:** Help channel specifically for java
-	**#cpp-help:** Help channel specifically for C++ and C
 	**#javascript-help:** Help channel specifically for javascript
+	**#c-cpp-help:** Help channel specifically for C++ and C
 	**#c-sharp-help:** Help channel specifically for C#
 **MISC HELP:**
 	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
-	**#stem:** Channel for general STEM topics
 	**#game-dev:** Game development and Unity/Unreal help
+	**#stem:** Channel for general STEM topics
 	**#databases:** Help channel about databases
 	**#web-design:** Channel for web design discussion and help
 **VOICE CHANNELS:**

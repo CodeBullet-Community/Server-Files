@@ -184,4 +184,4 @@ There is also the possibility that we will ask if you want to join the staff wit
 - BulletBot Server: https://discord.gg/74py7yd
 
 ***SPECIAL THANKS***
-Special thanks to @Chan#1308 for designing and drawing the title background
+Special thanks to @Chan#1308 for designing and drawing the header background

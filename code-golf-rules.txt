@@ -1,28 +1,33 @@
 [rules banner]
 
-**1. A new problem will be posted every two weeks**
-**2. When a new problem is posted, you will have 10 days to submit a solution**
-**3. Solutions should not be more than one file**
-**4. Submit your code using `?!submit` with an attached file**
-**5. Each challenge will be divided into these 4 categories:** 
+**1. When a new challenge is posted, you will have 10 days to submit a solution**
+**2. Solutions should not be more than one file**
+**3. Submit your code using `?!submit` with an attached file**
+**4. Each challenge will be divided into these 4 categories:** 
     **-** Python
     **-** JavaScript
     **-** C/C++
     **-** Any Language
-**6. You will be judged based on file size**
-**7. The names of the winners will be posted on #cg**-**winners**
-**8. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **
-**9. By default, only standard libraries are allowed. Exceptions may be created for certain challenges. **
-**10. For a submission to classify for the Python category it must: **
+**5. You will be judged based on file size**
+**6. The names of the winners will be posted on #cg**-**winners**
+**7. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **
+**8. By default, only standard libraries are allowed. Exceptions may be created for certain challenges. **
+**9. For a submission to classify for the Python category it must: **
     **a.** Run in Python 3.8
     **b.** Not mix tabs and spaces for tabulation
-**11. For a submission to classify for the JavaScript category it must: **
+**10. For a submission to classify for the JavaScript category it must: **
     **a.** Run in JavaScript ES10
-**12. For a submission to classify for the C++/C category it must: **
+**11. For a submission to classify for the C++/C category it must: **
     **a.** Compile with the latest version of gcc or g++
-**13. For a submission to classify for the Any Language category it must: **
+**12. For a submission to classify for the Any Language category it must: **
     **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages
 *Note:* 
 	- You are not required to use a specifc version of a language, however your code must be compatible with the listed version
    - Any rules listed for a language specific category does not apply to the any language category unless otherwise stated
    - while the ?!submit command deletes your message and attached file in order to keep your solution private, you are encouraged to share and discuss it
+**13. A point system is used to encourage friendly competition, points are given as follows: **
+    **a.** +1 if you submit working code
+    **b.** +1 if your code gets featured
+    **c.** +3 if you win (for each category)
+    **d.** Bonus points may be granted for specific challenges
+**Have fun!**

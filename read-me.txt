@@ -9,14 +9,14 @@ As a member of this server, you are **obligated to follow the rules**.
 [rules banner]
 
 **1. Prohibited Behavior**
-    **a.** Insulting (Outside of obvious sarcasm, joking, playing around)
-    **b.** Toxic Behavior
-    **c.** Defamatory - Spreading fake information to damage someone’s reputation
-    **d.** Discrimination, for example, due to Sex, Sexual Orientation, Race, or Community Membership
-    **e.** Doxxing - Releasing someone’s private information to other members without consent
-    **f.** Unauthorized impersonation
-    **g.** Talking off-topic in the channels
-    **h.** Unjustified mentioning of roles or members
+	**a.** Insulting (Outside of obvious sarcasm, joking, playing around)
+	**b.** Toxic Behavior
+	**c.** Defamatory - Spreading fake information to damage someone’s reputation
+	**d.** Discrimination, for example, due to Sex, Sexual Orientation, Race, or Community Membership
+	**e.** Doxxing - Releasing someone’s private information to other members without consent
+	**f.** Unauthorized impersonation
+	**g.** Talking off-topic in the channels
+	**h.** Unjustified mentioning of roles or members
 **2. Prohibited Content**
 	**a.** NSFW Content
 	**b.** Directly Executable Files

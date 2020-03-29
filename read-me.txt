@@ -28,6 +28,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	**b.** Sending the same message again and again in a fast sequence
 	**c.** Repeatedly mentioning roles or members
 	**d.** A sequence of one-word or very short messages
+	**e.** Sending the same message into several channels
 **4. Prohibited Naming**
 	**a.** Blank Names
 	**b.** Names prohibited by rules in sections 1 and 2

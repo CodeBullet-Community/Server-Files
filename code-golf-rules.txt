@@ -11,7 +11,7 @@
 **5. You will be judged based on file size**
 **6. The names of the winners will be posted on #cg**-**winners**
 **7. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **
-**8. Unless otherwise stated, only standard libraries are allowed. **
+**8. Unless otherwise stated, only standard libraries can be used. **
 **9. Unless otherwise stated, you can not rely on randomness to solve a challenge. **
 **10. For a submission to classify for the Python category it must: **
     **a.** Run in Python 3.8

@@ -11,16 +11,17 @@
 **5. You will be judged based on file size**
 **6. The names of the winners will be posted on #cg**-**winners**
 **7. Funny solutions are encouraged, if a particularly interesting submission is sent to a moderator it may be featured alongside the winners. **
-**8. By default, only standard libraries are allowed. Exceptions may be created for certain challenges. **
-**9. For a submission to classify for the Python category it must: **
+**8. Unless otherwise stated, only standard libraries are allowed. **
+**9. Unless otherwise stated, you can not rely on randomness to solve a challenge. **
+**10. For a submission to classify for the Python category it must: **
     **a.** Run in Python 3.8
-**10. For a submission to classify for the JavaScript category it must: **
+**11. For a submission to classify for the JavaScript category it must: **
     **a.** Run in JavaScript ES10
-**11. For a submission to classify for the C/C++ category it must: **
+**12. For a submission to classify for the C/C++ category it must: **
     **a.** Compile with the latest version of gcc or g++
-**12. For a submission to classify for the Any Language category it must: **
+**13. For a submission to classify for the Any Language category it must: **
     **a.** Run/Compile in the latest version of any language EXCEPT for "golfing" languages
-**13. A point system is used to encourage friendly competition, points are given as follows: **
+**14. A point system is used to encourage friendly competition, points are given as follows: **
     **a.** +1 if you submit working code
     **b.** +1 if your code gets featured
     **c.** +3 if you win (for each category)

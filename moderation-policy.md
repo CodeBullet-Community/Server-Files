@@ -36,3 +36,17 @@ When enforcing the rules Moderators will follow the CEL, however, depending on t
   - For changes in server rules or policies: `1 Week`
 - Minimum Votes: `60% of Staff`
   - No opinion is considered a vote
+
+## Server Suggestion System
+
+Server suggestions with more than 10 votes (excluding bot reactions) should always be discussed by the staff. While and after discussing the suggestion it will be marked with the following reactions by the staff:
+
+| Emoji | Meaning                |
+| ----- | ---------------------- |
+| 🟠    | Discussing             |
+| 🟢    | Suggestion approved    |
+| 🔴    | Suggestion denied      |
+| 🔵    | Suggestion implemented |
+
+Incase someone suggests something that is already implemented it will be also marked with 🔵.
+When approving a suggestion it will first be marked with 🟢 and then when it has been implemented additionally with 🔵.

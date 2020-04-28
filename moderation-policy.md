@@ -31,11 +31,25 @@ When enforcing the rules Moderators will follow the CEL, however, depending on t
 
 ## Voting System
 
-- Minimum Voting Time: `1 hour`
-- Maximum Voting Time: `48 hours`
+Any change to the server and channel settings, rules, policies, staff, or any other aspect of the server needs to be voted on. All exceptions are listed below. A later change in punishment for a rule violation also needs to be voted on, unless the original punisher agrees on the change.
+
+For other actions, though it is not required, it's recommended to make a poll to keep track of the different opinions and the topic of discussion. Those votes won't need to adhere to the rules of required votes.
+
+Polls will be put in `#mod-votes` and discussion regarding the vote will be held in `#mod-chat`. All mods are required to vote with `Yes`, `No`, or `No Opinion`.
+
+### Changes exempt from voting
+
+- Typo/Grammar fixes
+- Minor rephrasing in channel descriptions (content cannot change)
+
+### Passing requirements
+
+- Minimum voting time: `1 hour`
+- Maximum voting time: `48 hours`
   - For changes in server rules or policies: `1 Week`
-- Minimum Votes: `60% of Staff`
+- Minimum votes: `60% of Staff` (rounded up)
   - No opinion is considered a vote
+- No draw (equal number of yes and no votes)
 
 ## Server Suggestion System
 

@@ -44,11 +44,14 @@ Polls will be put in `#mod-votes` and discussion regarding the vote will be held
 
 ### Passing requirements
 
-- Minimum voting time: `1 hour`
-- Maximum voting time: `48 hours`
+- Minimum voting time: `24 hour`
+- Maximum voting time: `3 days`
   - For changes in server rules or policies: `1 Week`
-- Minimum votes: `60% of Staff` (rounded up)
-  - No opinion is considered a vote
+  - While there is still meaningful discussion about the vote: `2 week`
+    - Discussion with opinions backed by logical arguments
+    - Arguments with opinions of "just because" are not considered meaningful
+- Minimum votes: `80% of Staff` (rounded up)
+  - `No opinion` is considered a vote
 - No draw (equal number of yes and no votes)
 
 ## Server Suggestion System

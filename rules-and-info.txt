@@ -10,37 +10,45 @@ As a member of this server, you are **obligated to follow the rules**.
 
 **1. Prohibited Behavior**
 	**a.** Insulting (Outside of obvious sarcasm, joking, playing around)
-	**b.** Toxic Behavior
-	**c.** Defamatory - Spreading fake information to damage someone’s reputation
-	**d.** Discrimination, for example, due to Sex, Sexual Orientation, Race, or Community Membership
-	**e.** Doxxing - Releasing someone’s private information to other members without consent
+	**b.** Toxic behavior
+	**c.** Defamation - *Spreading fake information to damage someone’s reputation*
+	**d.** Discrimination of any kind
+		**⦾** Sex
+		**⦾** Sexual Orientation
+		**⦾** Race
+		**⦾** Community Membership
+	**e.** Doxxing - *Releasing someone’s private information to other members without consent*
 	**f.** Unauthorized impersonation
-	**g.** Talking off-topic in the channels
+	**g.** Talking off-topic in channels
 	**h.** Unjustified mentioning of roles or members
+	**i.** Excessive trolling
+		**⦾** Having nonsensical conversations
+		**⦾** Creating speech designed specifically to anger, cause drama, or bring out negative emotions
+	**j.** Spamming
 **2. Prohibited Content**
-	**a.** NSFW Content
-	**b.** Directly Executable Files
-	**c.** Non-English Conversations
-	**d.** Advertisement outside of #self-promotion
-		**-** *No monetary advertisements*
-**3. No Spamming**
-	**a.** Sending messages with arbitrary characters in a fast sequence
-	**b.** Sending the same message again and again in a fast sequence
-	**c.** Repeatedly mentioning roles or members
-	**d.** A sequence of one-word or very short messages
-	**e.** Sending the same message into several channels
-**4. Prohibited Naming**
+	**a.** NSFW content
+	**b.** Directly executable files
+	**c.** Non-English conversations
+	**d.** Any form of advertisements
+        **⦿** The posting of advertisements is a ban-able offense
+	**e.** Jokes that include or refer to sensitive topics
+		**⦾** Suicide
+		**⦾** Self harm
+		**⦾** Rape
+**3. Prohibited Naming**
 	**a.** Blank Names
 	**b.** Names prohibited by rules in sections 1 and 2
-**5. Follow the Discord ToS**
-	**-** <https://discordapp.com/terms>
-	**-** Age restriction of 13 years will be enforced
+**4. Follow The Discord ToS**
+	**⦿** <https://discordapp.com/terms>
+	**⦿** Age restriction of 13 years will be enforced
 
 *Note:* 
-	- What you say can be used against you (if you talk about breaking a rule and not getting punished for it, that can be used to punish you)
 	- Moderators can use their own discretion
-	- Super admins have the same authority as admins
+	- If you deem your punishment unjust DM an admin and not the staff member that punished you
 	- Rule violations are on a person not user basis. So an alt won't erase past violations
+*Bullet meanings:*
+	⦿ Additional information
+	⦾ Example
 
 [help rules banner]
 

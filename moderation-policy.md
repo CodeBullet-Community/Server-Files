@@ -53,6 +53,7 @@ Polls will be put in `#mod-votes` and discussion regarding the vote will be held
 - Minimum votes: `80% of Staff` (rounded up)
   - `No opinion` is considered a vote
 - No draw (equal number of yes and no votes)
+- Admins are only allowed to vote either yes or no and not "no opinion"
 
 ## Server Suggestion System
 

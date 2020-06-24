@@ -36,6 +36,7 @@ Any change to the server and channel settings, rules, policies, staff, or any ot
 For other actions, though it is not required, it's recommended to make a poll to keep track of the different opinions and the topic of discussion. Those votes won't need to adhere to the rules of required votes.
 
 Polls will be put in `#mod-votes` and discussion regarding the vote will be held in `#mod-chat`. All mods are required to vote with `Yes`, `No`, or `No Opinion`.
+Admins must vote either `Yes` or `No` but not `No Opinion`.
 
 ### Changes exempt from voting
 
@@ -53,7 +54,6 @@ Polls will be put in `#mod-votes` and discussion regarding the vote will be held
 - Minimum votes: `80% of Staff` (rounded up)
   - `No opinion` is considered a vote
 - No draw (equal number of yes and no votes)
-- Admins are only allowed to vote either yes or no and not "no opinion"
 
 ## Server Suggestion System
 

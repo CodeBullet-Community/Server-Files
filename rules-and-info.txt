@@ -29,8 +29,8 @@ As a member of this server, you are **obligated to follow the rules**.
 	**a.** NSFW content
 	**b.** Directly executable files
 	**c.** Non-English conversations
-	**d.** Any form of advertisements
-        **⦿** The posting of advertisements is a ban-able offense
+	**d.** Advertisement outside of #self-promotion
+		**⦿** No monetary advertisements
 	**e.** Jokes that include or refer to sensitive topics
 		**⦾** Suicide
 		**⦾** Self harm

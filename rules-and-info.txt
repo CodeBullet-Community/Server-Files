@@ -76,8 +76,7 @@ As a member of this server, you are **obligated to follow the rules**.
 **Consequence Escalation Levels** (CEL)
 	**1.** Warning
 	**2.** Temporary mute
-	**3.** Temporary Ban
-	**4.** Permanent  Ban
+	**4.** Permanent ban
 When enforcing the rules Moderators will follow the CEL, however, depending on the situation they may start at any level. 
 Members should only get warned if the Moderators aren’t sure if that member is aware of the rule 
 or once (but only once) with the bot if the incident isn’t very significant. 

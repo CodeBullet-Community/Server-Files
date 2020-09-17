@@ -1,11 +1,11 @@
 [faq banner]
 
 **1. What programming language does CB use?**
-    An engine of Java called 'processing', JavaScript and python 3.
+    Java version of Processing, JavaScript and Python 3.
 
 **2. What IDE does Code Bullet use?**
     Processing IDE,  <https://processing.org/>
-    Atom editor, <https://atom.io/>
+    PyCharm, <https://www.jetbrains.com/pycharm/>
 
 **3. How old is CB and how long has he been programming for?**
     He is 22 (or was on the 28th of January 2020) and has been programming for 4 years.
@@ -24,6 +24,7 @@
 
 **8. Will you do a face reveal?**
     "I might do a face reveal at some point."
+    Which he did: <https://twitter.com/code_bullet/status/1299210583846211585>
 
 **9. With what programming language did you start?**
     "Java was the first language I learned in high school."

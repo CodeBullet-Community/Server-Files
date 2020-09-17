@@ -87,30 +87,29 @@ Users who join our Discord server only to violate the rules will be immediately 
 **GENERAL:**
 	**#general + #general2:** Just conversations
 	**#18-plus-talk:** for adult topics (only conv) (need to do `?rank 18-plus` in #bot-commands to access it)
-	**#debate:** Channel for arguments that got out of hand
+	**#politics:** Channel for serious political discussions
 	**#games:** Gaming discussions
 	**#memes:** Only for non-EU users
-	**#self-promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
+	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
 	**#career-talk:** Channel about career
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
+	**#projects:** Channel for showcasing personal projects (read channel desc for details)
 **SERVER STUFF:**
-	**#discord-suggestions:** Suggestions on improving the discord server
+	**#server-suggestions:** Suggestions on improving the discord server
+	**#server-discussion:** Discuss the server suggestions
 	**#ask-mods:** Ask questions to mods
 	**#bot-commands:** Command spam-chat
 **PROGRAMMING STUFF:**
 	**#general-programming:** Self-explanatory
 	**#resources:** Resources for programming related topics (can also ask for resources)
-	**#neural-networks:** Discussion of neural network
+	**#machine-learning:** Discussion of machine learning
 	**#normal-ai:** Discussion of non-neural-network AI
 	**#hardware:** Discussion of own setup and general hardware
+	**#microcontroller:** Discussion of microcontroller hardware and programming
 	**#operating-systems:** Discussion about operating systems
-**CODE GOLF:**
-	**#cg-rules:** Code Golf rules
-	**#cg-announcements:** Channel for announcements concerning Code Golfing
-	**#cg-winners:** List of winners of past competitions
-	**#cg-general:** Discussion channel for Code Golfing
+	**#code-clash:** Channel for organizing code clashes
 **PROGRAMMING HELP:**
 	**#programming-help-0/1:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
 	**#python-help:** Help channel specifically for python
@@ -118,6 +117,11 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#javascript-help:** Help channel specifically for javascript
 	**#c-cpp-help:** Help channel specifically for C++ and C
 	**#c-sharp-help:** Help channel specifically for C#
+**CODE GOLF:**
+	**#cg-rules:** Code Golf rules
+	**#cg-announcements:** Channel for announcements concerning Code Golfing
+	**#cg-winners:** List of winners of past competitions
+	**#cg-general:** Discussion channel for Code Golfing
 **MISC HELP:**
 	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
 	**#game-dev:** Game development and Unity/Unreal help

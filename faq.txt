@@ -6,6 +6,7 @@
 **2. What IDE does Code Bullet use?**
     Processing IDE,  <https://processing.org/>
     PyCharm, <https://www.jetbrains.com/pycharm/>
+    WebStorm, <https://www.jetbrains.com/webstorm/>
 
 **3. How old is CB and how long has he been programming for?**
     He is 22 (or was on the 28th of January 2020) and has been programming for 4 years.

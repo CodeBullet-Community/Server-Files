@@ -1,9 +1,8 @@
 [Languages Roles]
 
 React with following emojis to get a certain role. (also look below)
-**Only** have Programmer and one or more Language roles.
-**Programmer alone** is also forbidden.
-If we find someone that doesn't have both will be warned.
+**First** get the Programmer role and optionally pick one or more language roles afterwards.
+Without the Programmer role, you cannot get a language role.
 
 :CB: :	Programmer
 

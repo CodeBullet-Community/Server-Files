@@ -41,18 +41,18 @@ People will be able to @ them if they need help.
 
 React your main OS to get a role.
 
-:linux: : 	Linux
-:windows: : 	Windows
-:osx: : 	MacOS
+:linux: :	Linux
+:windows: :	Windows
+:osx: :	MacOS
 :chromeos: :	Chrome OS
 
 [Notif Roles]
 
 React to roles to get notified for following things:
 
-:YouTube: : 	when CodeBullet uploads a new video on YT
-:regional_indicator_g: : 	when there's a new announcement
-:codegolf: :    when something about the Code Golf competition is announced
+:YouTube: :	when CodeBullet uploads a new video on YT
+:regional_indicator_g: :	when there's a new announcement
+:codegolf: :	when something about the Code Golf competition is announced
 
 [Speciality Roles]
 

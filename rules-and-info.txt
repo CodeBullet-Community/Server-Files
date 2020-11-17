@@ -92,7 +92,6 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#games:** Gaming discussions
 	**#memes:** Only for non-EU users
 	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
-	**#career-talk:** Channel about career
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
@@ -118,13 +117,9 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#javascript-help:** Help channel specifically for javascript
 	**#c-cpp-help:** Help channel specifically for C++ and C
 	**#c-sharp-help:** Help channel specifically for C#
-**CODE GOLF:**
-	**#cg-rules:** Code Golf rules
-	**#cg-announcements:** Channel for announcements concerning Code Golfing
-	**#cg-winners:** List of winners of past competitions
-	**#cg-general:** Discussion channel for Code Golfing
 **MISC HELP:**
 	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
+	**#career-talk:** Channel about career
 	**#game-dev:** Game development and Unity/Unreal help
 	**#stem:** Channel for general STEM topics
 	**#databases:** Help channel about databases
@@ -132,6 +127,11 @@ Users who join our Discord server only to violate the rules will be immediately 
 **VOICE CHANNELS:**
 	**#no-mic:** For people in voice with no mic
 	**#music:**  Talking about music (links allowed) + music bot commands
+**CODE GOLF:**
+	**#cg-rules:** Code Golf rules
+	**#cg-announcements:** Channel for announcements concerning Code Golfing
+	**#cg-winners:** List of winners of past competitions
+	**#cg-general:** Discussion channel for Code Golfing
 
 [how to level up banner]
 

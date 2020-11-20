@@ -53,6 +53,7 @@ React to roles to get notified for following things:
 :YouTube: :	when CodeBullet uploads a new video on YT
 :regional_indicator_g: :	when there's a new announcement
 :codegolf: :	when something about the Code Golf competition is announced
+:twitch: :	when CodeBullet starts a stream
 
 [Speciality Roles]
 

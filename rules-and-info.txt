@@ -105,7 +105,7 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#general-programming:** Self-explanatory
 	**#resources:** Resources for programming related topics (can also ask for resources)
 	**#machine-learning:** Discussion of machine learning
-	**#normal-ai:** Discussion of non-neural-network AI
+	**#traditional-ai:** Discussion of non-deep-learning AI
 	**#hardware:** Discussion of own setup and general hardware
 	**#microcontroller:** Discussion of microcontroller hardware and programming
 	**#operating-systems:** Discussion about operating systems

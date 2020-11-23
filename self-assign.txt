@@ -68,3 +68,5 @@ People will be able to @ them if they need help.
 :NoSQL: :	NoSQL Helper
 :webdesign: :	Web Design Helper (HTML, CSS, etc.)
 :hardware: :	Hardware Helper
+:linux: :	Unix-Like operating systems Helper
+:windows: :	Windows Helper

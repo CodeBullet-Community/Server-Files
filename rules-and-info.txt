@@ -171,6 +171,7 @@ We have different self-assigning roles:
 	:webdesign: :	Web Design Helper (HTML, CSS, etc.)
 	:hardware: :	Hardware Helper
 **To get them** go to #role-assignment and react to the roles of your choice.
+**To mention them** do `??list` in #bot-commands to see how.
 
 [join staff banner]
 

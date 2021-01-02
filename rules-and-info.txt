@@ -89,7 +89,6 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 **GENERAL:**
 	**#general + #general2:** Just conversations
-	**#18-plus-talk:** for adult topics (only conv) (need to do `?rank 18-plus` in #bot-commands to access it)
 	**#politics:** Channel for serious political discussions
 	**#games:** Gaming discussions
 	**#memes:** Only for non-EU users

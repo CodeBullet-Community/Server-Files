@@ -26,7 +26,9 @@ As a member of this server, you are **obligated to follow the rules**.
 		**⦾** Creating speech designed specifically to anger, cause drama, or bring out negative emotions
 	**j.** Spamming
 **2. Prohibited Content**
-	**a.** NSFW content
+	**a.** NSFW content or conversations
+		**⦾** Horny-jail worthy 
+		**⦾** Gore
 	**b.** Directly executable files
 	**c.** Non-English conversations
 	**d.** Advertisement outside of #self-promotion

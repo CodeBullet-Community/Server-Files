@@ -90,7 +90,7 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 **GENERAL:**
 	**#general + #general2:** Just conversations
-	**#politics:** Channel for serious political discussions
+	**#debate:** Channel for serious debate
 	**#games:** Gaming discussions
 	**#memes:** Only for non-EU users
 	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)

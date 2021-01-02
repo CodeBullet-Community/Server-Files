@@ -98,6 +98,7 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#pictures:** Channel for real life pictures
 	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
 	**#projects:** Channel for showcasing personal projects (read channel desc for details)
+	**#counting:** Community counting channel
 **SERVER STUFF:**
 	**#server-suggestions:** Suggestions on improving the discord server
 	**#server-discussion:** Discuss the server suggestions

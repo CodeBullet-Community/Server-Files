@@ -47,7 +47,8 @@ As a member of this server, you are **obligated to follow the rules**.
 
 *Note:* 
 	- Moderators can use their own discretion
-	- If you deem your punishment unjust DM an admin and not the staff member that punished you
+	- If you deem your punishment unjust, first try to politely discuss it with the involved staff member, and if still necessary open a ticket or DM an admin 
+	- If you have a matter to discuss with the staff, open a ticket with `-ticket create [reason]`
 	- Rule violations are on a person not user basis. So an alt won't erase past violations
 *Bullet meanings:*
 	⦿ Additional information

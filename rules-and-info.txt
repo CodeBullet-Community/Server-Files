@@ -146,6 +146,9 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 [self assign banner]
 
+:warning: **To mention helper and speciality roles below** use the `??mention` in the designated help channels
+:warning: To view the channels with their mentionable roles do `??list` in #bot-commands. 
+
 We have different self-assigning roles:
 - **Language Roles:**
 	:python: :	Python
@@ -174,7 +177,6 @@ We have different self-assigning roles:
 	:webdesign: :	Web Design Helper (HTML, CSS, etc.)
 	:hardware: :	Hardware Helper
 **To get them** go to #role-assignment and react to the roles of your choice.
-**To mention them** do `??list` in #bot-commands to see how.
 
 [join staff banner]
 

@@ -29,6 +29,7 @@ As a member of this server, you are **obligated to follow the rules**.
 	**a.** NSFW content or conversations
 		**⦾** Horny-jail worthy 
 		**⦾** Gore
+		**⦾** Sexual content
 	**b.** Directly executable files
 	**c.** Non-English conversations
 	**d.** Advertisement outside of #self-promotion

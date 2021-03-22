@@ -99,7 +99,7 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#projects:** Channel for showcasing personal projects (read channel desc for details)
 	**#counting:** Community counting channel
 **SERVER STUFF:**
-	**#server-suggestions:** Suggestions on improving the discord server
+	**#server-suggestions:** Suggestions on improving the discord server (need Active Member rank to access it and be able to vote)
 	**#server-discussion:** Discuss the server suggestions
 	**#ask-mods:** Ask questions to mods
 	**#bot-commands:** Command spam-chat

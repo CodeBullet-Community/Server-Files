@@ -71,10 +71,9 @@ As a member of this server, you are **obligated to follow the rules**.
 	**-** Do not pretend code someone else wrote is yours. We will know
 
 *Helpful commands:*
-	- `?h2a` tells you what you need to post when asking for help
-	- `?a2a` for telling people that they should ask not ask to ask
-	- `?format` gives the syntax for Discord's syntax highlighting
-	- `?google` and `?google2` give you the solutions to most of your questions
+	- `-h2a` tells you what you need to post when asking for help
+	- `-a2a` for telling people that they should ask not ask to ask
+	- `-format` gives the syntax for Discord's syntax highlighting
 
 [Consequences banner]
 
@@ -96,7 +95,7 @@ Users who join our Discord server only to violate the rules will be immediately 
 	**#memes:** Only for non-EU users
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
-	**#anime:** weeb haven (need to do `?rank anime` in #bot-commands to access it)
+	**#anime:** weeb haven (need to do `-role anime` in #bot-commands to access it)
 	**#projects:** Channel for showcasing personal projects (read channel desc for details)
 	**#counting:** Community counting channel
 **SERVER STUFF:**

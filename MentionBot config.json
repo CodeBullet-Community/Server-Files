@@ -1,15 +1,11 @@
 {
   "prefix": "??",
-  "owners": [
-    "418112403419430915"
-  ],
+  "owners": ["418112403419430915"],
   "guilds": {
     "425410562965635074": {
       "locked": false,
       "confirmReactionTime": 240000,
-      "controllers": [
-        "425757768553725964"
-      ],
+      "controllers": ["425757768553725964"],
       "roles": {
         "batch": {
           "id": "622794098302255104",
@@ -106,86 +102,39 @@
       },
       "channels": {
         "425755501276430336": {
-          "roles": [
-            "tensorflow",
-            "pytorch"
-          ],
+          "roles": ["tensorflow", "pytorch"],
           "default": null
         },
-        "433664664732172288": [
-          "hardware"
-        ],
-        "612686963082002475": [
-          "python",
-          "tensorflow",
-          "pytorch"
-        ],
-        "612686990353104896": [
-          "java"
-        ],
-        "612687147664932918": [
-          "javascript"
-        ],
-        "612687058443698176": [
-          "c-lang",
-          "cpp",
-          "unreal"
-        ],
-        "612687244716670996": [
-          "c#",
-          "unity"
-        ],
+        "433664664732172288": ["hardware"],
+        "612686963082002475": ["python", "tensorflow", "pytorch"],
+        "612686990353104896": ["java"],
+        "612687147664932918": ["javascript"],
+        "612687058443698176": ["c-lang", "cpp", "unreal"],
+        "612687244716670996": ["c#", "unity"],
         "425764369197170690": {
-          "roles": [
-            "batch",
-            "shell",
-            "php",
-            "rust",
-            "lua",
-            "golang",
-            "sql",
-            "nosql"
-          ],
+          "roles": ["batch", "shell", "php", "rust", "lua", "golang", "sql", "nosql"],
           "default": null
         },
         "548223678819598356": {
-          "roles": [
-            "batch",
-            "shell",
-            "php",
-            "rust",
-            "lua",
-            "golang",
-            "sql",
-            "nosql"
-          ],
+          "roles": ["batch", "shell", "php", "rust", "lua", "golang", "sql", "nosql"],
           "default": null
         },
         "595651864951914516": {
-          "roles": [
-            "unity",
-            "unreal"
-          ],
+          "roles": ["unity", "unreal"],
           "default": null
         },
         "612689994540253219": {
-          "roles": [
-            "sql",
-            "nosql"
-          ],
+          "roles": ["sql", "nosql"],
           "default": null
         },
-        "612690103311138837": [
-          "web-design"
-        ],
-        "710580024641847348": [
-          "code-clash"
-        ],
+        "612690103311138837": ["web-design"],
+        "710580024641847348": ["code-clash"],
         "453277928789245975": {
-          "roles": [
-            "windows",
-            "unix"
-          ],
+          "roles": ["windows", "unix"],
+          "default": null
+        },
+        "425755850787782656": {
+          "roles": ["unreal", "unity"],
           "default": null
         }
       }

@@ -112,11 +112,49 @@
         "612687058443698176": ["c-lang", "cpp", "unreal"],
         "612687244716670996": ["c#", "unity"],
         "425764369197170690": {
-          "roles": ["batch", "shell", "php", "rust", "lua", "golang", "sql", "nosql"],
+          "roles": [
+            "batch",
+            "shell",
+            "php",
+            "rust",
+            "lua",
+            "golang",
+            "sql",
+            "nosql",
+            "python",
+            "tensorflow",
+            "pytorch",
+            "java",
+            "javascript",
+            "c-lang",
+            "cpp",
+            "unreal",
+            "c#",
+            "unity"
+          ],
           "default": null
         },
         "548223678819598356": {
-          "roles": ["batch", "shell", "php", "rust", "lua", "golang", "sql", "nosql"],
+          "roles": [
+            "batch",
+            "shell",
+            "php",
+            "rust",
+            "lua",
+            "golang",
+            "sql",
+            "nosql",
+            "python",
+            "tensorflow",
+            "pytorch",
+            "java",
+            "javascript",
+            "c-lang",
+            "cpp",
+            "unreal",
+            "c#",
+            "unity"
+          ],
           "default": null
         },
         "595651864951914516": {

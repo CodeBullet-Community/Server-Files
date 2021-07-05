@@ -1,3 +1,5 @@
+[faq banner]
+
 **1. What programming language does CB use?**
     Java version of Processing, JavaScript and Python 3.
 

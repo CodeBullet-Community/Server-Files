@@ -34,11 +34,8 @@
 **10. Where is CB in his education?**
     Just finished university studying computer science.
 
-**11. Where is CB and why hasn't he posted in ages**
-    Code bullet has not said anything since september. No one knows what he is doing or how to contact him right now
-
-**12. Where can I learn programming neural networks?**
+**11. Where can I learn programming neural networks?**
     Check #resources.
 
-**13. What is a good starter language to learn?**
+**12. What is a good starter language to learn?**
     Languages such as C#, Java, Javascript and Python are recommended for beginners.

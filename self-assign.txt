@@ -16,6 +16,7 @@ Without the Programmer role, you cannot get a language role.
 :rust: :	Rust
 :php: :	PHP
 :golang: :	Golang
+:ruby: :	Ruby
 :shell~1: :	Shell Script (or any other implementation of it eg. Bash)
 :powershell: :	Batch Script
 
@@ -34,6 +35,7 @@ People will be able to @ them if they need help.
 :rust: :	Rust Helper
 :php: :	PHP Helper
 :golang: :	Golang Helper
+:ruby: :	Ruby Helper
 :shell~1: :	Shell Script Helper (or any other implementation of it eg. Bash)
 :powershell: :	Batch Script Helper
 

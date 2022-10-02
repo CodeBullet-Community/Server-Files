@@ -72,3 +72,10 @@ People will be able to @ them if they need help.
 :hardware: :	Hardware Helper
 :linux: :	Unix-Like operating systems Helper
 :windows: :	Windows Helper
+
+[Misc Roles]
+
+React to get various miscellaneous roles:
+
+:card_box: :	View archived channels
+:SenkoBread: :	Access anime channel

@@ -1,8 +1,8 @@
 [Languages Roles]
 
 React with following emojis to get a certain role. (also look below)
-**First** get the Programmer role and optionally pick one or more language roles afterwards.
-Without the Programmer role, you cannot get a language role.
+Pick one or more roles of languages you know or use.
+If yours aren't listed you can manually get the programmer role.
 
 :CB: :	Programmer
 

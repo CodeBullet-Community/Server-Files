@@ -194,14 +194,12 @@ There is also the possibility that we will ask if you want to join the staff wit
 - Github: <https://github.com/Code-Bullet>
 - Website: <http://www.thebigcb.com/>
 - Twitch: <https://www.twitch.tv/codebullet>
+- Reddit: <https://www.reddit.com/r/CodeBullet/>
 
 - invite to this server: https://discord.gg/UZDMYx5
 
 - Community GitHub Organization: <https://github.com/CodeBullet-Community>
 - Moderation Policy: <https://github.com/CodeBullet-Community/Server-Files/blob/master/moderation-policy.md>
-
-- BulletBot Repository: <https://github.com/CodeBullet-Community/BulletBot>
-- BulletBot Server: https://discord.gg/74py7yd
 
 ***SPECIAL THANKS***
 Special thanks to @Chan#1308 for designing and drawing the header background

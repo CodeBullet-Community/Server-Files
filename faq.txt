@@ -34,8 +34,5 @@
 **10. Where is CB in his education?**
     Just finished university studying computer science.
 
-**11. Where can I learn programming neural networks?**
-    Check #resources.
-
-**12. What is a good starter language to learn?**
+**11. What is a good starter language to learn?**
     Languages such as C#, Java, Javascript and Python are recommended for beginners.

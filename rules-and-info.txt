@@ -89,50 +89,31 @@ Users who join our Discord server only to violate the rules will be immediately 
 [channel banner]
 
 **GENERAL:**
-	**#general + #general2:** Just conversations
+	**#general & #general2:** Just conversations
 	**#debate:** Channel for serious debate
 	**#games:** Gaming discussions
+	**#anime:** weeb haven (the anime role is required to access it which can be assigned in #role-assignment)
+**MEDIA:**
+	**#starboard:** Messages with 10 :star: reactions get featured header
 	**#memes:** Only for non-EU users
 	**#art:** Channel for general art and fanart
 	**#pictures:** Channel for real life pictures
-	**#anime:** weeb haven (need to do `-role anime` in #bot-commands to access it)
+	**#music:**  Music sharing and discussion. Music commands shoud go in #bot-commands
+**TECH:**
+	**#tech-general:** For general discussions relating to tech
+	**#machine-learning:** Discussion of machine learning
+	**#hardware:** Discussion of own setup and any hardware. Includes microcontrollers
 	**#projects:** Channel for showcasing personal projects (read channel desc for details)
+	**#programming-help:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
+**MISC:**
 	**#counting:** Community counting channel
-**SERVER STUFF:**
+	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
+	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
+**SERVER:**
 	**#server-suggestions:** Suggestions on improving the discord server (need Active Member rank to access it and be able to vote)
 	**#server-discussion:** Discuss the server suggestions
-	**#ask-mods:** Ask questions to mods
 	**#bot-commands:** Command spam-chat
-**TECH STUFF:**
-	**#general-programming:** Self-explanatory
-	**#resources:** Resources for programming related topics (can also ask for resources)
-	**#machine-learning:** Discussion of machine learning
-	**#traditional-ai:** Discussion of non-deep-learning AI
-	**#game-dev:** Game development and Unity/Unreal help
-	**#web-design:** Channel for web design discussion and help
-	**#databases:** Help channel about databases
-	**#systems-and-networking:** Discussion of anything related to operating systems and networking
-	**#hardware:** Discussion of own setup and any hardware. Includes microcontrollers
-**PROGRAMMING HELP:**
-	**#programming-help-0/1:** If you are stuck and need help (don't expect spoon feed answers and Google isn't an answer)(also is for HTML/CSS help)
-	**#python-help:** Help channel specifically for python
-	**#java-help:** Help channel specifically for java
-	**#javascript-help:** Help channel specifically for javascript
-	**#c-cpp-help:** Help channel specifically for C++ and C
-	**#c-sharp-help:** Help channel specifically for C#
-**MISC:**
-	**#general-help:** tech-support channel (programming help is in #programming-help-0/1)
-	**#career-talk:** Channel about career
-	**#stem:** Channel for general STEM topics
-	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(only for people of level 3 and above)
-**VOICE CHANNELS:**
-	**#no-mic:** For people in voice with no mic
-	**#music:**  Talking about music (links allowed) + music bot commands
-**CODE GOLF:**
-	**#cg-rules:** Code Golf rules
-	**#cg-announcements:** Channel for announcements concerning Code Golfing
-	**#cg-winners:** List of winners of past competitions
-	**#cg-general:** Discussion channel for Code Golfing
+
 
 [how to level up banner]
 

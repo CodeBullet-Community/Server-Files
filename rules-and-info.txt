@@ -112,13 +112,13 @@ Users who join our Discord server only to violate the rules will be immediately 
 **SERVER:**
 	**<#752819763113361498>:** Suggestions on improving the discord server (requires Active Member rank to access it and be able to vote)
 	**<#425755254743891971>:** Discuss the server suggestions
-	**<#471350547937624079:** Command spam-chat
+	**<#471350547937624079>:** Command spam-chat
 
 [how to level up banner]
 
 \- Each time you send a message, you'll get 20 xp.
 \- To avoid spamming and flooding the chat, you can only gain xp once a minute.
-\- To **check your level** type in #bot-commands:
+\- To **check your level** type in <#471350547937624079>:
     \- `>level`: shows your current level
     \- `>leaderboard`: shows the leaderboard
     \- `>leaderboard me`: shows the leaderboard centred around you
@@ -126,10 +126,10 @@ Users who join our Discord server only to violate the rules will be immediately 
 [self assign banner]
 
 :warning: **To mention helper and speciality roles below** use the `??mention` in the designated help channels
-:warning: To view the channels with their mentionable roles do `??list` in #bot-commands. 
+:warning: To view the channels with their mentionable roles do `??list` in <#471350547937624079>. 
 
 We have different self-assigning roles:
-- **Language Roles:**
+\- **Language Roles:**
 	:python: :	Python
 	:java: :	Java
 	:cplus: :	C++
@@ -140,13 +140,13 @@ We have different self-assigning roles:
 	:rust: :	Rust
 	:php: :	PHP
 	:golang: :	Golang
-- **Helper Roles:** for Language Roles users that are willing to help others
-- **OS Roles:** Your main OS
-- **Notif Roles:** Notification Roles for following things:
+\- **Helper Roles:** for Language Roles users that are willing to help others
+\- **OS Roles:** Your main OS
+\- **Notif Roles:** Notification Roles for following things:
 	:YouTube: :	when CodeBullet uploads a new video on YT
 	:regional_indicator_g: :	when there's a new announcement
 	:codegolf: :	when something about the Code Golf competition is announced
-- **Speciality Roles:** misc helper roles
+\- **Speciality Roles:** misc helper roles
 	:tensorflow: :	Tensorflow/Keras Helper
 	:pytorch: :	PyTorch Helper
 	:unity: :	Unity Helper
@@ -155,7 +155,7 @@ We have different self-assigning roles:
 	:NoSQL: :	NoSQL Helper
 	:webdesign: :	Web Design Helper (HTML, CSS, etc.)
 	:hardware: :	Hardware Helper
-**To get them** go to #role-assignment and react to the roles of your choice.
+**To get them** go to <#517303883618320391> and react to the roles of your choice.
 
 [join staff banner]
 
@@ -169,18 +169,19 @@ There is also the possibility that we will ask if you want to join the staff wit
 
 [links banner]
 
-- Youtube: <https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q>
-- Twitter: <https://twitter.com/code_bullet>
-- Patreon: <https://www.patreon.com/CodeBullet>
-- Github: <https://github.com/Code-Bullet>
-- Website: <http://www.thebigcb.com/>
-- Twitch: <https://www.twitch.tv/codebullet>
-- Reddit: <https://www.reddit.com/r/CodeBullet/>
+\- Youtube: <https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q>
+\- Twitter: <https://twitter.com/code_bullet>
+\- Patreon: <https://www.patreon.com/CodeBullet>
+\- ~~Github: <https://github.com/Code-Bullet>~~
+\- Website: <http://www.thebigcb.com/>
+\- Twitch: <https://www.twitch.tv/codebullet>
+\- Reddit: <https://www.reddit.com/r/CodeBullet/>
 
-- invite to this server: https://discord.gg/UZDMYx5
+\- invite to this server: https://discord.gg/UZDMYx5
+\- invite to the Rick and Morty server: <https://discord.gg/kbjdEyCp2J>
 
-- Community GitHub Organization: <https://github.com/CodeBullet-Community>
-- Moderation Policy: <https://github.com/CodeBullet-Community/Server-Files/blob/master/moderation-policy.md>
+\- Community GitHub Organization: <https://github.com/CodeBullet-Community>
+\- Moderation Policy: <https://github.com/CodeBullet-Community/Server-Files/blob/master/moderation-policy.md>
 
 ***SPECIAL THANKS***
-Special thanks to @Chan#1308 for designing and drawing the header background
+Special thanks to <@260849741741555712> for designing and drawing the header background

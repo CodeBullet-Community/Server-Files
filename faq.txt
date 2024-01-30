@@ -1,38 +1,38 @@
 [faq banner]
 
-**1. What programming language does CB use?**
+**1\. What programming language does CB use?**
     Java version of Processing, JavaScript and Python 3.
 
-**2. What IDE's does Code Bullet use?**
+**2\. What IDE's does Code Bullet use?**
     Processing IDE,  <https://processing.org/>
     PyCharm, <https://www.jetbrains.com/pycharm/>
     WebStorm, <https://www.jetbrains.com/webstorm/>
     Visual Studio <https://visualstudio.microsoft.com/> 
 
-**3. How old is CB and how long has he been programming for?**
+**3\. How old is CB and how long has he been programming for?**
     He is 23 (or was on the 28th of January 2021) and has been programming for 4 years.
 
-**4. Where can I find the code for CB's projects?**
+**4\. Where can I find the code for CB's projects?**
     GitHub! <https://github.com/Code-Bullet?tab=repositories>
 
-**5. Where is CB from?**
+**5\. Where is CB from?**
     Australia.
 
-**6. Where can I support Code Bullet?**
+**6\. Where can I support Code Bullet?**
     <https://www.patreon.com/CodeBullet>
 
-**7. Where does CB go for art?**
+**7\. Where does CB go for art?**
     #art.
 
-**8. Will CB do a face reveal?**
+**8\. Will CB do a face reveal?**
     "I might do a face reveal at some point."
     Which he did: <https://twitter.com/code_bullet/status/1299210583846211585>
 
-**9. With what programming language did CB start?**
+**9\. With what programming language did CB start?**
     "Java was the first language I learned in high school."
 
-**10. Where is CB in his education?**
+**10\. Where is CB in his education?**
     Just finished university studying computer science.
 
-**11. What is a good starter language to learn?**
+**11\. What is a good starter language to learn?**
     Languages such as C#, Java, Javascript and Python are recommended for beginners.

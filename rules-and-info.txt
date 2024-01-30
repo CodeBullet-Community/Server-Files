@@ -1,14 +1,14 @@
 [welcome banner]
 
 **Welcome to Code Bullet and Co!!**
-This server belongs to @Code Bullet#6516 and his **Youtube channel** (link below).
+This server belongs to <@425407396211326979> and his **Youtube channel** (link below).
 Its main purpose is to talk about programming and AI related topics, but it is also used for general conversation.
-Before you ask any questions please first check out #faq.
+Before you ask any questions please first check out <#469993578056384523>.
 As a member of this server, you are **obligated to follow the rules**.
 
 [rules banner]
 
-**1. Prohibited Behavior**
+**1\. Prohibited Behavior**
 	**a.** Insulting (Outside of obvious sarcasm, joking, playing around)
 	**b.** Toxic behavior
 	**c.** Defamation - *Spreading fake information to damage someone’s reputation*
@@ -25,55 +25,55 @@ As a member of this server, you are **obligated to follow the rules**.
 		**⦾** Having nonsensical conversations
 		**⦾** Creating speech designed specifically to anger, cause drama, or bring out negative emotions
 	**j.** Spamming
-**2. Prohibited Content**
+**2\. Prohibited Content**
 	**a.** NSFW content or conversations
 		**⦾** Horny-jail worthy 
 		**⦾** Gore
 		**⦾** Sexual content
 	**b.** Directly executable files
 	**c.** Non-English conversations
-	**d.** Advertisement outside of #self-promotion
+	**d.** Advertisement outside of <#425784501591867392>
 		**⦿** No monetary advertisements
 	**e.** Jokes that include or refer to sensitive topics
 		**⦾** Suicide
 		**⦾** Self harm
 		**⦾** Rape
 	**f.** Ear rape
-**3. Prohibited Naming**
+**3\. Prohibited Naming**
 	**a.** Blank Names
 	**b.** Names prohibited by rules in sections 1 and 2
-**4. Follow The Discord ToS**
+**4\. Follow The Discord ToS**
 	**⦿** <https://discordapp.com/terms>
 	**⦿** Age restriction of 13 years will be enforced
 
 *Note:* 
-	- Moderators can use their own discretion
-	- If you deem your punishment unjust, first try to politely discuss it with the involved staff member, and if still necessary open a ticket or DM an admin 
-	- If you have a matter to discuss with the staff, open a ticket with `-ticket create [reason]`
-	- Rule violations are on a person not user basis. So an alt won't erase past violations
+	\- Moderators can use their own discretion
+	\- If you deem your punishment unjust, first try to politely discuss it with the involved staff member, and if still necessary open a ticket or DM an admin 
+	\- If you have a matter to discuss with the staff, open a ticket with `-ticket create [reason]`
+	\- Rule violations are on a person not user basis. So an alt won't erase past violations
 *Bullet meanings:*
 	⦿ Additional information
 	⦾ Example
 
 [help rules banner]
 
-**1. Google your question before asking.** Most answers can be found on Google
+**1\. Google your question before asking.** Most answers can be found on Google
 	**-** You can ask for help understanding code you find via Google
-**2. Do not post large blocks of code.** Instead, you can either:
+**2\. Do not post large blocks of code.** Instead, you can either:
 	**-** Post a link to a Pastebin (or similar) of the code
 	**-** Upload the code to Discord in a file
 	**-** Only include the code required to solve the problem
-**3. You may only ping helpers if nobody has responded to your question for 15 minutes**
-**4. Do not ask for other people to write code for you** (aka don't be a help vampire)
+**3\. You may only ping helpers if nobody has responded to your question for 15 minutes**
+**4\. Do not ask for other people to write code for you** (aka don't be a help vampire)
 	**-** Do not ask others to do homework for you
 	**-** (Asking for ideas or troubleshooting is fine.)
-**5. Clearly indicate when you're working with code you didn't write**
+**5\. Clearly indicate when you're working with code you didn't write**
 	**-** Do not pretend code someone else wrote is yours. We will know
 
 *Helpful commands:*
-	- `-h2a` tells you what you need to post when asking for help
-	- `-a2a` for telling people that they should ask not ask to ask
-	- `-format` gives the syntax for Discord's syntax highlighting
+	\- `-h2a` tells you what you need to post when asking for help
+	\- `-a2a` for telling people that they should ask not ask to ask
+	\- `-format` gives the syntax for Discord's syntax highlighting
 
 [Consequences banner]
 
@@ -89,39 +89,39 @@ Users who join our Discord server only to violate the rules will be immediately 
 [channel banner]
 
 **GENERAL:**
-	**#general & #general2:** Just conversations
-	**#debate:** Serious debate
-	**#games:** Gaming discussions
-	**#anime:** Weeb haven (the anime role is required to access it which can be assigned in #role-assignment)
+	**<#425410563510763521> & <#425755037986455553>:** Just conversations
+	**<#588347164028174337>:** Serious debate
+	**<#425755295013142548>:** Gaming discussions
+	**<#425769300595572747>:** Weeb haven (the anime role is required to access it which can be assigned in <#517303883618320391>)
 **MEDIA:**
-	**#starboard:** Messages with 10 :star: reactions get featured here
-	**#memes:** Memes/shitposting
-	**#art:** General art and fanart
-	**#pictures:** Real life pictures
-	**#music:** Music sharing and discussion (music commands should go in #bot-commands)
+	**<#880114143175278642>:** Messages with 10 :star: reactions get featured here
+	**<#425755272191934466>:** Memes/shitposting
+	**<#427060301863583755>:** General art and fanart
+	**<#580104474555842581>:** Real life pictures
+	**<#425755424965525504>:** Music sharing and discussion (music commands should go in <#471350547937624079>)
 **TECH:**
-	**#tech-general:** For general discussion relating to tech
-	**#machine-learning:** Discussion of machine learning
-	**#hardware:** Discussion of hardware and setup flexing (includes microcontrollers)
-	**#projects:** Showcasing personal projects (read channel description for details)
-	**#programming-help:** Programming/Programming related help (don't expect spoon-fed answers. "Google it" isn't an answer)(also for HTML/CSS help)
+	**<#425754986522345486>:** For general discussion relating to tech
+	**<#425755501276430336>:** Discussion of machine learning
+	**<#433664664732172288>:** Discussion of hardware and setup flexing (includes microcontrollers)
+	**<#425755867539832833>:** Showcasing personal projects (read channel description for details)
+	**<#1017870328321556611>:** Programming/Programming related help (don't expect spoon-fed answers. "Google it" isn't an answer)(also for HTML/CSS help)
 **MISC:**
-	**#counting:** Community counting channel
-	**#general-help:** Help general problems (programming help should still go in #programming-help)
-	**#promotion:** Promote your stuff (not things with real money value, because it could be a scam)(requires Active Member rank to post messages)
+	**<#779884122386071563>:** Community counting channel (requires Active Member rank to post messages)
+	**<#595651864951914516>:** Help general problems (programming help should still go in <#1017870328321556611>)
+	**<#425784501591867392>:** Promote your stuff (not things with real money value, because it could be a scam)(requires Active Member rank to post messages)
 **SERVER:**
-	**#server-suggestions:** Suggestions on improving the discord server (requires Active Member rank to access it and be able to vote)
-	**#server-discussion:** Discuss the server suggestions
-	**#bot-commands:** Command spam-chat
+	**<#752819763113361498>:** Suggestions on improving the discord server (requires Active Member rank to access it and be able to vote)
+	**<#425755254743891971>:** Discuss the server suggestions
+	**<#471350547937624079:** Command spam-chat
 
 [how to level up banner]
 
-- Each time you send a message, you'll get 20 xp.
-- To avoid spamming and flooding the chat, you can only gain xp once a minute.
-- To **check your level** type in #bot-commands:
-    - `>level`: shows your current level
-    - `>leaderboard`: shows the leaderboard
-    - `>leaderboard me `: shows the leaderboard centred around you
+\- Each time you send a message, you'll get 20 xp.
+\- To avoid spamming and flooding the chat, you can only gain xp once a minute.
+\- To **check your level** type in #bot-commands:
+    \- `>level`: shows your current level
+    \- `>leaderboard`: shows the leaderboard
+    \- `>leaderboard me`: shows the leaderboard centred around you
 
 [self assign banner]
 

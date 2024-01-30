@@ -116,8 +116,8 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 [how to level up banner]
 
-- Each time you send a message, you'll get 20XP.
-- To avoid spamming and flooding the chat, you can only gain EXP once a minute.
+- Each time you send a message, you'll get 20 xp.
+- To avoid spamming and flooding the chat, you can only gain xp once a minute.
 - To **check your level** type in #bot-commands:
     - `>level`: shows your current level
     - `>leaderboard`: shows the leaderboard

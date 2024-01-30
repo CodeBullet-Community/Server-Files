@@ -116,11 +116,12 @@ Users who join our Discord server only to violate the rules will be immediately 
 
 [how to level up banner]
 
-- Each time you send a message, you'll get a random amount of EXP between 15-25.
+- Each time you send a message, you'll get 20XP.
 - To avoid spamming and flooding the chat, you can only gain EXP once a minute.
 - To **check your level** type in #bot-commands:
-    - `!rank`: shows your current level
-    - `!levels`: shows the leaderboard
+    - `>level`: shows your current level
+    - `>leaderboard`: shows the leaderboard
+    - `>leaderboard me `: shows the leaderboard centred around you
 
 [self assign banner]
 

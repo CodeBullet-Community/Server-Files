@@ -172,7 +172,7 @@ There is also the possibility that we will ask if you want to join the staff wit
 \- Youtube: <https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q>
 \- Twitter: <https://twitter.com/code_bullet>
 \- Patreon: <https://www.patreon.com/CodeBullet>
-\- ~~Github: <https://github.com/Code-Bullet>~~
+\- Github: <https://github.com/Code-Bullet>
 \- Website: <http://www.thebigcb.com/>
 \- Twitch: <https://www.twitch.tv/codebullet>
 \- Reddit: <https://www.reddit.com/r/CodeBullet/>
